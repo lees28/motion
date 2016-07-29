@@ -1,0 +1,1 @@
+CHANGED,C:\Users\Soo Yeon Lee\AndroidStudioProjects\Accelerometer Reading\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\smartapps\accel\MainActivity.class
